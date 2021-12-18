@@ -13,3 +13,8 @@ dimwishlist:item=2139640995&perks=3666208348,269888150,3108830275,2396489472,348
 // RETRACED PATH
 //notes: Bob (M+KB / PvE): "It's feasable" Recommended MW: Range or Handling|tags:mkb,pvp
 dimwishlist:item=548958835&perks=1840239774,2680121939,1820235745,2610012052,1590375902
+
+//EYASLUNA 
+//notes: Bob (M+KB / PvP): "Good balance between aim assist and flinch from high caliber" Recommended MW: Range or Handling|tags:mkb,pvp
+dimwishlist:item=235827225&perks=1926090092,1561002382,2846385770,588594999,2697220197
+
