@@ -103,6 +103,10 @@ dimwishlist:item=2351180975&perks=1467527085,1561002382,3643424744,588594999
 //notes: Bob (PvP): "probably the only usable 180 handcannon" Recommended MW: Range.
 dimwishlist:item=310708513&perks=202670084,1561002382,2450788523,1015611457 
 
+//CRISIS INVERTED 
+//notes: Bob (PvE): "really good perk combo" Recommended MW: Handling or Range
+dimwishlist:item=2888266564&perks=,3523296417,11612903
+
 // --------------------------------------------------------------------------------------------------------------------------
 // SMG ----------------------------------------------------------------------------------------------------------------------
 // --------------------------------------------------------------------------------------------------------------------------
@@ -119,6 +123,41 @@ dimwishlist:item=2222560548&perks=1140096971,1820235745,3523296417,2697220197
 // COLD FRONT
 //notes: Roman (PvP/ PvE): "Trying to make it work" Recommended MW: Range, Stability, Handling
 dimwishlist:item=1506719573&perks=3250034553,3142289711,1359896290 | Range Focus
+
+// THE TITLE
+//notes: Bob (PvE/PvP): "decent SMG, one of the few aggressive Void that we have" Recommended MW: Range or Stability or Handling. 
+dimwishlist:item=294129361&perks=,1561002382,1428297954,588594999
+dimwishlist:item=294129361&perks=,1561002382,1583705720,4049631843
+
+//BORROWED TIME
+//notes: Bob (PvE/ PvP): "Probably the best legendary energy we have for crucible next to IKELOS" Recommended MW: Range or Handling
+dimwishlist:item=875848769&perks=,1561002382,2846385770,4104185692
+dimwishlist:item=875848769&perks=,1561002382,2846385770,4104185692
+dimwishlist:item=875848769&perks=,3643424744,4104185692
+dimwishlist:item=875848769&perks=,3643424744,11612903
+dimwishlist:item=875848769&perks=,3643424744,3523296417
+
+//SUBMISSION 
+//notes: Bob (PvE/ PvP): "Decent kinetic SMG, not as good as multimach is PvP" Recommended MW: Range or Handling
+dimwishlist:item=3886416794&perks=,1195158366,2450788523
+dimwishlist:item=3886416794&perks=,1428297954,2450788523
+dimwishlist:item=3886416794&perks=,1428297954,4104185692
+dimwishlist:item=3886416794&perks=,3643424744,4104185692
+dimwishlist:item=3886416794&perks=,2172504645,438098033
+
+//FORENSIC NIGHTMARE 
+//notes: Bob (PvE): "Pretty gross gun tbh, but it's stasis affinity so i guess?" Recommended MW: Stability or Handling
+dimwishlist:item=1526296434&perks=,1428297954,1015611457
+dimwishlist:item=1526296434&perks=,1428297954,4082225868
+dimwishlist:item=1526296434&perks=,1428297954,124408337
+
+//EXTRAORDINARY RENDITION
+//notes: Bob (PvE/ PvP): "Very good kinetic SMG" Recommended MW: Range or Stability
+dimwishlist:item=1097616550&perks=,3643424744,4104185692
+dimwishlist:item=1097616550&perks=,3643424744,4049631843
+dimwishlist:item=1097616550&perks=,3643424744,3425386926
+dimwishlist:item=1097616550&perks=,2387244414,1890422124
+dimwishlist:item=1097616550&perks=,3643424744,2458213969
 
 // --------------------------------------------------------------------------------------------------------------------------
 // BOW ----------------------------------------------------------------------------------------------------------------------
